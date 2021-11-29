@@ -9,3 +9,5 @@ d### <a href="https://eager-golick-206a6d.netlify.app" target="_blank">**Live De
 [![jAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## ScreenShot
+
+<img src = "Screenshot.png">
