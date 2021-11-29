@@ -1,6 +1,5 @@
 #Notea_saver
-We Keep Notes Saver. Stores Notes In LocalStorage. TailwindCSS
-
+We Keep Notes Saver. Stores Notes In LocalStorage.
 d### <a href="https://eager-golick-206a6d.netlify.app" target="_blank">**Live Demo 🚀**</a>
 
 ## Tech Stack
